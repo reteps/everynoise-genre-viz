@@ -5,6 +5,388 @@
       "name": "pop",
       "children": [
         {
+          "name": "dance pop",
+          "children": [
+            {
+              "name": "r&b",
+              "children": [
+                {
+                  "name": "urban contemporary",
+                  "children": [
+                    {
+                      "name": "hip pop",
+                      "children": [
+                        {
+                          "name": "girl group",
+                          "children": [
+                            {
+                              "name": "barbadian pop",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "new jack swing",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "alternative r&b",
+                  "children": [
+                    {
+                      "name": "indie r&b",
+                      "children": [
+                        {
+                          "name": "bedroom soul",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "indie soul",
+                      "children": [
+                        {
+                          "name": "indie jazz",
+                          "children": [
+                            {
+                              "name": "british jazz",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "minnesota hip hop",
+                      "children": [
+                        {
+                          "name": "abstract hip hop",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "neo r&b",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "neo soul",
+                  "children": [
+                    {
+                      "name": "british soul",
+                      "children": [
+                        {
+                          "name": "danish pop",
+                          "children": [
+                            {
+                              "name": "classic danish pop",
+                              "children": [
+                                {
+                                  "name": "dansktop",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "south african pop",
+                          "children": [
+                            {
+                              "name": "afro house",
+                              "children": [
+                                {
+                                  "name": "kwaito house",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "south african rock",
+                              "children": []
+                            },
+                            {
+                              "name": "south african alternative",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "swedish soul",
+                          "children": [
+                            {
+                              "name": "scandinavian r&b",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "deep pop r&b",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "europop",
+              "children": [
+                {
+                  "name": "eurodance",
+                  "children": [
+                    {
+                      "name": "german techno",
+                      "children": [
+                        {
+                          "name": "minimal techno",
+                          "children": [
+                            {
+                              "name": "tech house",
+                              "children": [
+                                {
+                                  "name": "deep euro house",
+                                  "children": [
+                                    {
+                                      "name": "deep melodic euro house",
+                                      "children": [
+                                        {
+                                          "name": "organic electronic",
+                                          "children": [
+                                            {
+                                              "name": "ethnotronica",
+                                              "children": [
+                                                {
+                                                  "name": "latintronica",
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "minimal tech house",
+                                  "children": [
+                                    {
+                                      "name": "deep disco house",
+                                      "children": [
+                                        {
+                                          "name": "deep tech house",
+                                          "children": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "dark techno",
+                                  "children": []
+                                },
+                                {
+                                  "name": "deep minimal techno",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "microhouse",
+                              "children": [
+                                {
+                                  "name": "float house",
+                                  "children": [
+                                    {
+                                      "name": "future garage",
+                                      "children": [
+                                        {
+                                          "name": "bass music",
+                                          "children": [
+                                            {
+                                              "name": "dubstep",
+                                              "children": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "wonky",
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "lo-fi house",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "lithuanian electronic",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "intelligent dance music",
+                                  "children": [
+                                    {
+                                      "name": "fluxwork",
+                                      "children": [
+                                        {
+                                          "name": "outsider house",
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "glitch",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "techno",
+                              "children": []
+                            },
+                            {
+                              "name": "german house",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "bubble trance",
+                          "children": [
+                            {
+                              "name": "psychedelic trance",
+                              "children": [
+                                {
+                                  "name": "progressive psytrance",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "destroy techno",
+                          "children": []
+                        },
+                        {
+                          "name": "hamburg electronic",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "hip house",
+                      "children": [
+                        {
+                          "name": "hardcore techno",
+                          "children": [
+                            {
+                              "name": "happy hardcore",
+                              "children": [
+                                {
+                                  "name": "gabba",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "diva house",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "italo dance",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "swedish pop",
+                  "children": [
+                    {
+                      "name": "swedish urban",
+                      "children": [
+                        {
+                          "name": "swedish hip hop",
+                          "children": [
+                            {
+                              "name": "swedish reggae",
+                              "children": [
+                                {
+                                  "name": "swedish dancehall",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "swedish trap",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "classic swedish pop",
+                      "children": [
+                        {
+                          "name": "danspunk",
+                          "children": [
+                            {
+                              "name": "swedish alternative rock",
+                              "children": [
+                                {
+                                  "name": "swedish indie rock",
+                                  "children": []
+                                },
+                                {
+                                  "name": "vegas indie",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "dansband",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "swedish jazz",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "swedish idol pop",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "japanese electropop",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "post-teen pop",
           "children": [
             {
@@ -13,19 +395,20 @@
             },
             {
               "name": "viral pop",
-              "children": []
-            }
-          ]
-        },
-        {
-          "name": "dance pop",
-          "children": [
-            {
-              "name": "europop",
               "children": [
                 {
-                  "name": "swedish pop",
-                  "children": []
+                  "name": "channel pop",
+                  "children": [
+                    {
+                      "name": "singaporean pop",
+                      "children": [
+                        {
+                          "name": "singaporean mandopop",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             },
@@ -36,7 +419,228 @@
           ]
         },
         {
+          "name": "electropop",
+          "children": [
+            {
+              "name": "indietronica",
+              "children": [
+                {
+                  "name": "new rave",
+                  "children": [
+                    {
+                      "name": "alternative dance",
+                      "children": [
+                        {
+                          "name": "neo-synthpop",
+                          "children": [
+                            {
+                              "name": "swedish synthpop",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "electroclash",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "dance-punk",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "electronica",
+                  "children": [
+                    {
+                      "name": "trip hop",
+                      "children": [
+                        {
+                          "name": "big beat",
+                          "children": [
+                            {
+                              "name": "breakbeat",
+                              "children": [
+                                {
+                                  "name": "hard bass",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "nu jazz",
+                      "children": [
+                        {
+                          "name": "electro swing",
+                          "children": []
+                        },
+                        {
+                          "name": "electro jazz",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "vapor soul",
+                  "children": [
+                    {
+                      "name": "vapor pop",
+                      "children": [
+                        {
+                          "name": "austrian pop",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "gauze pop",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "chillwave",
+                  "children": [
+                    {
+                      "name": "grave wave",
+                      "children": [
+                        {
+                          "name": "dark post-punk",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "future funk",
+                  "children": [
+                    {
+                      "name": "vaporwave",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "metropopolis",
+              "children": [
+                {
+                  "name": "shimmer pop",
+                  "children": [
+                    {
+                      "name": "rebel blues",
+                      "children": []
+                    },
+                    {
+                      "name": "shiver pop",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "indie poptimism",
+              "children": [
+                {
+                  "name": "la pop",
+                  "children": [
+                    {
+                      "name": "belgian pop",
+                      "children": [
+                        {
+                          "name": "belgian rock",
+                          "children": [
+                            {
+                              "name": "classic belgian pop",
+                              "children": []
+                            },
+                            {
+                              "name": "belgian indie",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "swiss indie",
+                      "children": [
+                        {
+                          "name": "schweizer rap",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "hopebeat",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "swedish electropop",
+              "children": [
+                {
+                  "name": "swedish indie pop",
+                  "children": [
+                    {
+                      "name": "gothenburg indie",
+                      "children": [
+                        {
+                          "name": "portland indie",
+                          "children": [
+                            {
+                              "name": "nottingham indie",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "k-pop",
+          "children": [
+            {
+              "name": "korean pop",
+              "children": [
+                {
+                  "name": "k-indie",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "uk pop",
+          "children": [
+            {
+              "name": "pop chileno",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "chinese idol pop",
           "children": []
         }
       ]
@@ -45,15 +649,2192 @@
       "name": "rap",
       "children": [
         {
-          "name": "cali rap",
-          "children": []
+          "name": "trap",
+          "children": [
+            {
+              "name": "melodic rap",
+              "children": [
+                {
+                  "name": "vapor trap",
+                  "children": [
+                    {
+                      "name": "meme rap",
+                      "children": [
+                        {
+                          "name": "ottawa rap",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "southern hip hop",
+              "children": [
+                {
+                  "name": "dirty south rap",
+                  "children": [
+                    {
+                      "name": "houston rap",
+                      "children": []
+                    },
+                    {
+                      "name": "new orleans rap",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "atl hip hop",
+              "children": [
+                {
+                  "name": "atl trap",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "dfw rap",
+              "children": [
+                {
+                  "name": "florida rap",
+                  "children": []
+                },
+                {
+                  "name": "baton rouge rap",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "chicago rap",
+              "children": [
+                {
+                  "name": "drill",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "underground hip hop",
+          "children": [
+            {
+              "name": "dark trap",
+              "children": []
+            }
+          ]
         },
         {
           "name": "hip hop",
-          "children": []
+          "children": [
+            {
+              "name": "east coast hip hop",
+              "children": [
+                {
+                  "name": "hardcore hip hop",
+                  "children": [
+                    {
+                      "name": "turntablism",
+                      "children": [
+                        {
+                          "name": "jazz rap",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "electro",
+                  "children": [
+                    {
+                      "name": "old school hip hop",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "harlem hip hop",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "conscious hip hop",
+              "children": [
+                {
+                  "name": "philly rap",
+                  "children": [
+                    {
+                      "name": "nyc rap",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "detroit hip hop",
+                  "children": [
+                    {
+                      "name": "detroit trap",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "alternative hip hop",
+                  "children": [
+                    {
+                      "name": "underground rap",
+                      "children": []
+                    },
+                    {
+                      "name": "boom bap",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         },
         {
           "name": "gangster rap",
+          "children": [
+            {
+              "name": "g funk",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "pop rap",
+          "children": [
+            {
+              "name": "indie pop rap",
+              "children": [
+                {
+                  "name": "czsk hip hop",
+                  "children": [
+                    {
+                      "name": "czech pop",
+                      "children": [
+                        {
+                          "name": "czech rock",
+                          "children": [
+                            {
+                              "name": "czech folk",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "slovak pop",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "cali rap",
+          "children": [
+            {
+              "name": "west coast trap",
+              "children": [
+                {
+                  "name": "hyphy",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "rock",
+      "children": [
+        {
+          "name": "classic rock",
+          "children": [
+            {
+              "name": "mellow gold",
+              "children": [
+                {
+                  "name": "folk rock",
+                  "children": [
+                    {
+                      "name": "folk",
+                      "children": [
+                        {
+                          "name": "lilith",
+                          "children": [
+                            {
+                              "name": "canadian singer-songwriter",
+                              "children": [
+                                {
+                                  "name": "canadian americana",
+                                  "children": []
+                                },
+                                {
+                                  "name": "canadian country",
+                                  "children": []
+                                },
+                                {
+                                  "name": "a cappella",
+                                  "children": []
+                                },
+                                {
+                                  "name": "canadian folk",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "ectofolk",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "british folk",
+                          "children": [
+                            {
+                              "name": "scottish singer-songwriter",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "traditional folk",
+                          "children": [
+                            {
+                              "name": "old-time",
+                              "children": [
+                                {
+                                  "name": "country gospel",
+                                  "children": [
+                                    {
+                                      "name": "cowboy western",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "american folk revival",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "bubblegum pop",
+                      "children": [
+                        {
+                          "name": "merseybeat",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "country rock",
+                      "children": [
+                        {
+                          "name": "outlaw country",
+                          "children": [
+                            {
+                              "name": "texas country",
+                              "children": [
+                                {
+                                  "name": "roots americana",
+                                  "children": []
+                                },
+                                {
+                                  "name": "red dirt",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "barnmusik",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "cosmic american",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "roots rock",
+                      "children": [
+                        {
+                          "name": "power pop",
+                          "children": [
+                            {
+                              "name": "jangle pop",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "jam band",
+                          "children": [
+                            {
+                              "name": "livetronica",
+                              "children": [
+                                {
+                                  "name": "glitch hop",
+                                  "children": [
+                                    {
+                                      "name": "indie liguria",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "adult standards",
+                  "children": [
+                    {
+                      "name": "brill building pop",
+                      "children": [
+                        {
+                          "name": "rock-and-roll",
+                          "children": [
+                            {
+                              "name": "rockabilly",
+                              "children": []
+                            },
+                            {
+                              "name": "rhythm and blues",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "doo-wop",
+                          "children": []
+                        },
+                        {
+                          "name": "classic girl group",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "lounge",
+                      "children": [
+                        {
+                          "name": "easy listening",
+                          "children": [
+                            {
+                              "name": "romantico",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "vocal jazz",
+                      "children": [
+                        {
+                          "name": "jazz",
+                          "children": [
+                            {
+                              "name": "jazz funk",
+                              "children": [
+                                {
+                                  "name": "jazz fusion",
+                                  "children": [
+                                    {
+                                      "name": "jazz guitar",
+                                      "children": [
+                                        {
+                                          "name": "french jazz",
+                                          "children": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "smooth jazz",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "cool jazz",
+                              "children": [
+                                {
+                                  "name": "contemporary post-bop",
+                                  "children": [
+                                    {
+                                      "name": "free jazz",
+                                      "children": [
+                                        {
+                                          "name": "avant-garde jazz",
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "contemporary jazz",
+                                      "children": [
+                                        {
+                                          "name": "jazz trio",
+                                          "children": [
+                                            {
+                                              "name": "latin classical",
+                                              "children": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "ecm-style jazz",
+                                          "children": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "soul jazz",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "bebop",
+                              "children": [
+                                {
+                                  "name": "swing",
+                                  "children": [
+                                    {
+                                      "name": "big band",
+                                      "children": [
+                                        {
+                                          "name": "stride",
+                                          "children": [
+                                            {
+                                              "name": "new orleans jazz",
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "hard bop",
+                                  "children": []
+                                },
+                                {
+                                  "name": "jazz piano",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "contemporary vocal jazz",
+                          "children": [
+                            {
+                              "name": "indie triste",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "jazz blues",
+                          "children": [
+                            {
+                              "name": "piano blues",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "torch song",
+                          "children": [
+                            {
+                              "name": "islamic recitation",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "fado",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "soft rock",
+                  "children": [
+                    {
+                      "name": "yacht rock",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "psychedelic rock",
+              "children": [
+                {
+                  "name": "protopunk",
+                  "children": [
+                    {
+                      "name": "classic garage rock",
+                      "children": [
+                        {
+                          "name": "freakbeat",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "british blues",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "blues rock",
+              "children": [
+                {
+                  "name": "electric blues",
+                  "children": [
+                    {
+                      "name": "blues",
+                      "children": [
+                        {
+                          "name": "traditional blues",
+                          "children": [
+                            {
+                              "name": "country blues",
+                              "children": [
+                                {
+                                  "name": "acoustic blues",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "louisiana blues",
+                          "children": []
+                        },
+                        {
+                          "name": "chicago blues",
+                          "children": []
+                        },
+                        {
+                          "name": "texas blues",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "soul blues",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "modern blues rock",
+                  "children": [
+                    {
+                      "name": "modern hard rock",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "modern blues",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "pop rock",
+          "children": [
+            {
+              "name": "post-grunge",
+              "children": [
+                {
+                  "name": "alternative metal",
+                  "children": [
+                    {
+                      "name": "nu metal",
+                      "children": [
+                        {
+                          "name": "metalcore",
+                          "children": [
+                            {
+                              "name": "melodic metalcore",
+                              "children": [
+                                {
+                                  "name": "uk metalcore",
+                                  "children": []
+                                },
+                                {
+                                  "name": "deathcore",
+                                  "children": [
+                                    {
+                                      "name": "progressive deathcore",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "post-screamo",
+                              "children": [
+                                {
+                                  "name": "trancecore",
+                                  "children": [
+                                    {
+                                      "name": "nintendocore",
+                                      "children": [
+                                        {
+                                          "name": "chiptune",
+                                          "children": []
+                                        },
+                                        {
+                                          "name": "mathcore",
+                                          "children": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "gymcore",
+                                  "children": [
+                                    {
+                                      "name": "hard alternative",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "screamo",
+                              "children": [
+                                {
+                                  "name": "progressive post-hardcore",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "australian metalcore",
+                              "children": []
+                            },
+                            {
+                              "name": "nu-metalcore",
+                              "children": []
+                            },
+                            {
+                              "name": "progressive metalcore",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "industrial metal",
+                          "children": [
+                            {
+                              "name": "industrial rock",
+                              "children": [
+                                {
+                                  "name": "dark wave",
+                                  "children": [
+                                    {
+                                      "name": "gothic rock",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "industrial",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "rawstyle",
+                              "children": [
+                                {
+                                  "name": "uptempo hardcore",
+                                  "children": [
+                                    {
+                                      "name": "frenchcore",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "neue deutsche harte",
+                              "children": [
+                                {
+                                  "name": "medieval rock",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "ebm",
+                              "children": [
+                                {
+                                  "name": "electro-industrial",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "stoner rock",
+                      "children": [
+                        {
+                          "name": "stoner metal",
+                          "children": [
+                            {
+                              "name": "sludge metal",
+                              "children": [
+                                {
+                                  "name": "doom metal",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "post-metal",
+                              "children": []
+                            },
+                            {
+                              "name": "psychedelic doom",
+                              "children": []
+                            },
+                            {
+                              "name": "uk doom metal",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "space rock",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "rap metal",
+                  "children": [
+                    {
+                      "name": "funk metal",
+                      "children": []
+                    },
+                    {
+                      "name": "rap rock",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "neo mellow",
+              "children": [
+                {
+                  "name": "acoustic pop",
+                  "children": [
+                    {
+                      "name": "opm",
+                      "children": [
+                        {
+                          "name": "pinoy indie",
+                          "children": [
+                            {
+                              "name": "pinoy rock",
+                              "children": [
+                                {
+                                  "name": "pinoy reggae",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "classic opm",
+                          "children": [
+                            {
+                              "name": "manila sound",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "lds youth",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "indiecoustica",
+                      "children": [
+                        {
+                          "name": "roots worship",
+                          "children": [
+                            {
+                              "name": "papuri",
+                              "children": []
+                            },
+                            {
+                              "name": "christian indie",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "latin worship",
+                  "children": [
+                    {
+                      "name": "latin christian",
+                      "children": [
+                        {
+                          "name": "mariachi cristiano",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "rap cristiano",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "piano rock",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "modern rock",
+          "children": [
+            {
+              "name": "indie pop",
+              "children": [
+                {
+                  "name": "indie rock",
+                  "children": [
+                    {
+                      "name": "chamber pop",
+                      "children": [
+                        {
+                          "name": "indie folk",
+                          "children": [
+                            {
+                              "name": "stomp and holler",
+                              "children": [
+                                {
+                                  "name": "folk-pop",
+                                  "children": [
+                                    {
+                                      "name": "mandopop",
+                                      "children": [
+                                        {
+                                          "name": "c-pop",
+                                          "children": [
+                                            {
+                                              "name": "cantopop",
+                                              "children": [
+                                                {
+                                                  "name": "v-pop",
+                                                  "children": []
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "classic mandopop",
+                                              "children": [
+                                                {
+                                                  "name": "taiwan singer-songwriter",
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "taiwan pop",
+                                          "children": [
+                                            {
+                                              "name": "deep talent show",
+                                              "children": []
+                                            },
+                                            {
+                                              "name": "chinese indie",
+                                              "children": [
+                                                {
+                                                  "name": "taiwan indie",
+                                                  "children": []
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "malaysian pop",
+                                              "children": [
+                                                {
+                                                  "name": "malaysian indie",
+                                                  "children": [
+                                                    {
+                                                      "name": "naija worship",
+                                                      "children": []
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "rock kapak",
+                                                  "children": []
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "taiwan hip hop",
+                                              "children": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "mainland chinese pop",
+                                          "children": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "modern folk rock",
+                                  "children": [
+                                    {
+                                      "name": "uk americana",
+                                      "children": [
+                                        {
+                                          "name": "gospel",
+                                          "children": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "alternative americana",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "new americana",
+                              "children": [
+                                {
+                                  "name": "progressive bluegrass",
+                                  "children": [
+                                    {
+                                      "name": "bluegrass",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "deep new americana",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "swedish singer-songwriter",
+                              "children": [
+                                {
+                                  "name": "swedish americana",
+                                  "children": []
+                                },
+                                {
+                                  "name": "australian singer-songwriter",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "art pop",
+                          "children": [
+                            {
+                              "name": "escape room",
+                              "children": [
+                                {
+                                  "name": "lgbtq+ hip hop",
+                                  "children": []
+                                },
+                                {
+                                  "name": "afrofuturism",
+                                  "children": []
+                                },
+                                {
+                                  "name": "hyperpop",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "otacore",
+                              "children": [
+                                {
+                                  "name": "antiviral pop",
+                                  "children": [
+                                    {
+                                      "name": "minecraft",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "experimental pop",
+                              "children": [
+                                {
+                                  "name": "chamber psych",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "electra",
+                              "children": [
+                                {
+                                  "name": "chill beats",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "etherpop",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "hollywood",
+                          "children": [
+                            {
+                              "name": "show tunes",
+                              "children": [
+                                {
+                                  "name": "broadway",
+                                  "children": [
+                                    {
+                                      "name": "disney",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "west end",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "movie tunes",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "indie anthem-folk",
+                          "children": [
+                            {
+                              "name": "indie cafe pop",
+                              "children": []
+                            },
+                            {
+                              "name": "british singer-songwriter",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "freak folk",
+                          "children": [
+                            {
+                              "name": "neo-psychedelic",
+                              "children": [
+                                {
+                                  "name": "indie garage rock",
+                                  "children": [
+                                    {
+                                      "name": "indie surf",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "surf punk",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "slow core",
+                              "children": [
+                                {
+                                  "name": "anti-folk",
+                                  "children": [
+                                    {
+                                      "name": "folk punk",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "post-rock",
+                                  "children": [
+                                    {
+                                      "name": "instrumental post-rock",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "new weird america",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "ambient folk",
+                          "children": [
+                            {
+                              "name": "tagalog worship",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "melancholia",
+                          "children": []
+                        },
+                        {
+                          "name": "baroque pop",
+                          "children": []
+                        },
+                        {
+                          "name": "eau claire indie",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "indie punk",
+                      "children": [
+                        {
+                          "name": "midwest emo",
+                          "children": []
+                        },
+                        {
+                          "name": "philly indie",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "brooklyn indie",
+                      "children": [
+                        {
+                          "name": "auckland indie",
+                          "children": []
+                        },
+                        {
+                          "name": "brighton indie",
+                          "children": []
+                        },
+                        {
+                          "name": "austindie",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "oakland indie",
+                      "children": [
+                        {
+                          "name": "bay area indie",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "boston indie",
+                      "children": [
+                        {
+                          "name": "pittsburgh indie",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "new jersey indie",
+                      "children": [
+                        {
+                          "name": "new jersey hardcore",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "chicago indie",
+                      "children": [
+                        {
+                          "name": "athens indie",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "oxford indie",
+                      "children": []
+                    },
+                    {
+                      "name": "seattle indie",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "la indie",
+                  "children": [
+                    {
+                      "name": "stomp pop",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "bedroom pop",
+                  "children": []
+                },
+                {
+                  "name": "edmonton indie",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "modern alternative rock",
+              "children": [
+                {
+                  "name": "canadian rock",
+                  "children": [
+                    {
+                      "name": "canadian indie",
+                      "children": [
+                        {
+                          "name": "vancouver indie",
+                          "children": []
+                        },
+                        {
+                          "name": "saskatchewan indie",
+                          "children": []
+                        },
+                        {
+                          "name": "quebec indie",
+                          "children": []
+                        },
+                        {
+                          "name": "toronto indie",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "english indie rock",
+                  "children": [
+                    {
+                      "name": "scottish indie rock",
+                      "children": [
+                        {
+                          "name": "glasgow indie",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "british alternative rock",
+                  "children": []
+                },
+                {
+                  "name": "german alternative rock",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "britpop",
+              "children": [
+                {
+                  "name": "welsh rock",
+                  "children": []
+                },
+                {
+                  "name": "madchester",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "northern irish indie",
+              "children": [
+                {
+                  "name": "leicester indie",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "album rock",
+          "children": [
+            {
+              "name": "art rock",
+              "children": [
+                {
+                  "name": "dance rock",
+                  "children": [
+                    {
+                      "name": "new wave",
+                      "children": [
+                        {
+                          "name": "new romantic",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "symphonic rock",
+                  "children": [
+                    {
+                      "name": "progressive rock",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "zolo",
+                  "children": [
+                    {
+                      "name": "rock drums",
+                      "children": [
+                        {
+                          "name": "experimental hip hop",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "washington indie",
+                  "children": [
+                    {
+                      "name": "north carolina indie",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "hard rock",
+              "children": [
+                {
+                  "name": "metal",
+                  "children": [
+                    {
+                      "name": "speed metal",
+                      "children": [
+                        {
+                          "name": "power metal",
+                          "children": [
+                            {
+                              "name": "gothic metal",
+                              "children": [
+                                {
+                                  "name": "symphonic metal",
+                                  "children": [
+                                    {
+                                      "name": "dutch metal",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "neo classical metal",
+                              "children": [
+                                {
+                                  "name": "instrumental rock",
+                                  "children": [
+                                    {
+                                      "name": "djent",
+                                      "children": [
+                                        {
+                                          "name": "jazz metal",
+                                          "children": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "shred",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "melodic metal",
+                              "children": [
+                                {
+                                  "name": "slayer",
+                                  "children": []
+                                },
+                                {
+                                  "name": "symphonic power metal",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "german metal",
+                              "children": []
+                            },
+                            {
+                              "name": "finnish metal",
+                              "children": []
+                            },
+                            {
+                              "name": "progressive metal",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "thrash metal",
+                          "children": [
+                            {
+                              "name": "birmingham metal",
+                              "children": []
+                            },
+                            {
+                              "name": "old school thrash",
+                              "children": []
+                            },
+                            {
+                              "name": "melodic thrash",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "death metal",
+                      "children": [
+                        {
+                          "name": "swedish metal",
+                          "children": [
+                            {
+                              "name": "swedish death metal",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "deathgrind",
+                          "children": [
+                            {
+                              "name": "brutal death metal",
+                              "children": [
+                                {
+                                  "name": "technical death metal",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "melodic death metal",
+                      "children": [
+                        {
+                          "name": "viking metal",
+                          "children": [
+                            {
+                              "name": "pagan black metal",
+                              "children": [
+                                {
+                                  "name": "black metal",
+                                  "children": [
+                                    {
+                                      "name": "symphonic black metal",
+                                      "children": [
+                                        {
+                                          "name": "norwegian metal",
+                                          "children": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "folk metal",
+                              "children": [
+                                {
+                                  "name": "celtic metal",
+                                  "children": [
+                                    {
+                                      "name": "spanish folk metal",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "gothenburg metal",
+                          "children": []
+                        },
+                        {
+                          "name": "danish metal",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "canadian metal",
+                      "children": [
+                        {
+                          "name": "welsh metal",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "groove metal",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "glam metal",
+                  "children": [
+                    {
+                      "name": "sleaze rock",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "southern rock",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "alternative rock",
+          "children": [
+            {
+              "name": "dream pop",
+              "children": [
+                {
+                  "name": "nu gaze",
+                  "children": [
+                    {
+                      "name": "shoegaze",
+                      "children": [
+                        {
+                          "name": "french shoegaze",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "noise pop",
+                  "children": [
+                    {
+                      "name": "noise rock",
+                      "children": []
+                    },
+                    {
+                      "name": "garage psych",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "punk",
+              "children": [
+                {
+                  "name": "skate punk",
+                  "children": [
+                    {
+                      "name": "canadian punk",
+                      "children": []
+                    },
+                    {
+                      "name": "socal pop punk",
+                      "children": [
+                        {
+                          "name": "spanish punk",
+                          "children": [
+                            {
+                              "name": "punk urbano",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "chicago punk",
+                      "children": [
+                        {
+                          "name": "chicago hardcore",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "melodic hardcore",
+                      "children": [
+                        {
+                          "name": "hardcore",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "orgcore",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "hardcore punk",
+                  "children": [
+                    {
+                      "name": "crossover thrash",
+                      "children": []
+                    },
+                    {
+                      "name": "boston punk",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "early us punk",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "garage rock",
+              "children": [
+                {
+                  "name": "punk blues",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "grunge",
+              "children": [
+                {
+                  "name": "post-hardcore",
+                  "children": []
+                },
+                {
+                  "name": "australian psych",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "post-punk",
+              "children": [
+                {
+                  "name": "experimental rock",
+                  "children": [
+                    {
+                      "name": "experimental",
+                      "children": [
+                        {
+                          "name": "laboratorio",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "lo-fi",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "no wave",
+                  "children": []
+                },
+                {
+                  "name": "uk post-punk",
+                  "children": []
+                },
+                {
+                  "name": "art punk",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "supergroup",
+              "children": [
+                {
+                  "name": "boston rock",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "sacramento indie",
+              "children": [
+                {
+                  "name": "el paso indie",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "alternative pop",
+              "children": []
+            },
+            {
+              "name": "sheffield indie",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "permanent wave",
+          "children": [
+            {
+              "name": "irish rock",
+              "children": [
+                {
+                  "name": "irish singer-songwriter",
+                  "children": [
+                    {
+                      "name": "stomp and flutter",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "celtic rock",
+              "children": [
+                {
+                  "name": "celtic",
+                  "children": [
+                    {
+                      "name": "irish folk",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "celtic punk",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "edm",
+      "children": [
+        {
+          "name": "electro house",
+          "children": [
+            {
+              "name": "big room",
+              "children": [
+                {
+                  "name": "progressive house",
+                  "children": [
+                    {
+                      "name": "trance",
+                      "children": [
+                        {
+                          "name": "uplifting trance",
+                          "children": [
+                            {
+                              "name": "progressive uplifting trance",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "progressive electro house",
+                  "children": [
+                    {
+                      "name": "dutch house",
+                      "children": [
+                        {
+                          "name": "melbourne bounce international",
+                          "children": [
+                            {
+                              "name": "melbourne bounce",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "deep big room",
+                  "children": [
+                    {
+                      "name": "dutch edm",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "gaming edm",
+              "children": [
+                {
+                  "name": "catstep",
+                  "children": [
+                    {
+                      "name": "chillstep",
+                      "children": [
+                        {
+                          "name": "wave",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "house",
+          "children": [
+            {
+              "name": "disco house",
+              "children": [
+                {
+                  "name": "filter house",
+                  "children": [
+                    {
+                      "name": "nu disco",
+                      "children": [
+                        {
+                          "name": "uk funky",
+                          "children": [
+                            {
+                              "name": "uk garage",
+                              "children": [
+                                {
+                                  "name": "bassline",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "ukg revival",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "retro electro",
+                      "children": [
+                        {
+                          "name": "cyberpunk",
+                          "children": [
+                            {
+                              "name": "future rock",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "nightrun",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "deep house",
+                  "children": [
+                    {
+                      "name": "groove room",
+                      "children": []
+                    },
+                    {
+                      "name": "chicago house",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "vocal house",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "uk dance",
+              "children": []
+            },
+            {
+              "name": "deep groove house",
+              "children": []
+            },
+            {
+              "name": "bass house",
+              "children": [
+                {
+                  "name": "guaracha",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "funky tech house",
+              "children": []
+            },
+            {
+              "name": "uk house",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "tropical house",
+          "children": [
+            {
+              "name": "new french touch",
+              "children": [
+                {
+                  "name": "french indie pop",
+                  "children": [
+                    {
+                      "name": "uk alternative pop",
+                      "children": []
+                    },
+                    {
+                      "name": "indian indie",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "german dance",
+              "children": [
+                {
+                  "name": "pop house",
+                  "children": [
+                    {
+                      "name": "hands up",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "deep tropical house",
+              "children": [
+                {
+                  "name": "swedish tropical house",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "belgian edm",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "brostep",
+          "children": [
+            {
+              "name": "electronic trap",
+              "children": [
+                {
+                  "name": "bass trap",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "drum and bass",
+              "children": [
+                {
+                  "name": "liquid funk",
+                  "children": [
+                    {
+                      "name": "uk dnb",
+                      "children": []
+                    },
+                    {
+                      "name": "neurofunk",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "jungle",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "canadian electronic",
+              "children": [
+                {
+                  "name": "danish electronic",
+                  "children": []
+                },
+                {
+                  "name": "indian edm",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "zapstep",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "pop edm",
+          "children": []
+        },
+        {
+          "name": "complextro",
           "children": []
         }
       ]
@@ -65,161 +2846,677 @@
           "name": "latin pop",
           "children": [
             {
+              "name": "grupera",
+              "children": [
+                {
+                  "name": "regional mexican",
+                  "children": [
+                    {
+                      "name": "regional mexican pop",
+                      "children": [
+                        {
+                          "name": "corrido",
+                          "children": []
+                        },
+                        {
+                          "name": "banda carnavalera",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "banda",
+                      "children": [
+                        {
+                          "name": "duranguense",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "norteno",
+                      "children": [
+                        {
+                          "name": "tejano",
+                          "children": [
+                            {
+                              "name": "tex-mex",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "cumbia",
+                      "children": [
+                        {
+                          "name": "chicha",
+                          "children": [
+                            {
+                              "name": "cumbia peruana",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "cumbia sonidera",
+                          "children": [
+                            {
+                              "name": "chunchaca",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "vallenato",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "ranchera",
+                  "children": [
+                    {
+                      "name": "bolero",
+                      "children": [
+                        {
+                          "name": "cancion melodica",
+                          "children": []
+                        },
+                        {
+                          "name": "mexican rock-and-roll",
+                          "children": [
+                            {
+                              "name": "mexican classic rock",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "rock en espanol",
+              "children": [
+                {
+                  "name": "latin rock",
+                  "children": [
+                    {
+                      "name": "mexican rock",
+                      "children": [
+                        {
+                          "name": "mexican pop punk",
+                          "children": [
+                            {
+                              "name": "texas pop punk",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "rock urbano mexicano",
+                          "children": []
+                        },
+                        {
+                          "name": "mexican indie",
+                          "children": []
+                        },
+                        {
+                          "name": "ska mexicano",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "spanish indie pop",
+                      "children": [
+                        {
+                          "name": "spanish noise pop",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "colombian rock",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "argentine rock",
+                  "children": [
+                    {
+                      "name": "cumbia pop",
+                      "children": [
+                        {
+                          "name": "cumbia villera",
+                          "children": [
+                            {
+                              "name": "cumbia chilena",
+                              "children": [
+                                {
+                                  "name": "cumbia ranchera",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "cumbia santafesina",
+                              "children": []
+                            },
+                            {
+                              "name": "cuarteto",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "cumbia paraguaya",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "rock nacional",
+                      "children": []
+                    },
+                    {
+                      "name": "argentine indie",
+                      "children": [
+                        {
+                          "name": "steampunk",
+                          "children": []
+                        },
+                        {
+                          "name": "argentine alternative rock",
+                          "children": []
+                        },
+                        {
+                          "name": "electronica argentina",
+                          "children": []
+                        },
+                        {
+                          "name": "albuquerque indie",
+                          "children": []
+                        },
+                        {
+                          "name": "glee club",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "latin alternative",
+                  "children": [
+                    {
+                      "name": "reggae en espanol",
+                      "children": [
+                        {
+                          "name": "puerto rican rock",
+                          "children": []
+                        },
+                        {
+                          "name": "rap chileno",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "peruvian rock",
+                      "children": []
+                    },
+                    {
+                      "name": "ska argentino",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "latin metal",
+                  "children": [
+                    {
+                      "name": "spanish metal",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "mexican pop",
+              "children": [
+                {
+                  "name": "latin arena pop",
+                  "children": []
+                },
+                {
+                  "name": "latin viral pop",
+                  "children": []
+                },
+                {
+                  "name": "pop argentino",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "dutch pop",
+              "children": [
+                {
+                  "name": "dutch hip hop",
+                  "children": [
+                    {
+                      "name": "dutch urban",
+                      "children": [
+                        {
+                          "name": "rif",
+                          "children": [
+                            {
+                              "name": "rai",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "basshall",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "nz pop",
+                  "children": [
+                    {
+                      "name": "irish pop",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "dutch rock",
+                  "children": [
+                    {
+                      "name": "nederpop",
+                      "children": [
+                        {
+                          "name": "levenslied",
+                          "children": [
+                            {
+                              "name": "carnaval",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "dutch indie",
+                      "children": [
+                        {
+                          "name": "ann arbor indie",
+                          "children": []
+                        },
+                        {
+                          "name": "kentucky indie",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "dutch cabaret",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "dutch singer-songwriter",
+                  "children": []
+                }
+              ]
+            },
+            {
               "name": "spanish pop",
               "children": [
                 {
                   "name": "cantautor",
+                  "children": [
+                    {
+                      "name": "nueva cancion",
+                      "children": [
+                        {
+                          "name": "chilean rock",
+                          "children": [
+                            {
+                              "name": "chilean indie",
+                              "children": [
+                                {
+                                  "name": "veracruz indie",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "latin funk",
+                              "children": []
+                            },
+                            {
+                              "name": "australian reggae fusion",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "trova",
+                          "children": [
+                            {
+                              "name": "samba de roda",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "folklore argentino",
+                          "children": [
+                            {
+                              "name": "chamame",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "andean",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "indie catala",
+                      "children": [
+                        {
+                          "name": "rock catala",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "flamenco",
+                  "children": [
+                    {
+                      "name": "rock andaluz",
+                      "children": []
+                    },
+                    {
+                      "name": "rumba",
+                      "children": []
+                    },
+                    {
+                      "name": "flamenco guitar",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "turkish pop",
+              "children": [
+                {
+                  "name": "turkish folk",
+                  "children": [
+                    {
+                      "name": "arabesk",
+                      "children": [
+                        {
+                          "name": "oyun havasi",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "turkish rock",
+                  "children": [
+                    {
+                      "name": "anadolu rock",
+                      "children": [
+                        {
+                          "name": "turkish psych",
+                          "children": [
+                            {
+                              "name": "classic turkish pop",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "turkish jazz",
+                      "children": [
+                        {
+                          "name": "native american",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "turkish singer-songwriter",
+                      "children": []
+                    },
+                    {
+                      "name": "turkish alternative rock",
+                      "children": []
+                    },
+                    {
+                      "name": "turkish alternative",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "thai pop",
+                  "children": [
+                    {
+                      "name": "thai indie rock",
+                      "children": [
+                        {
+                          "name": "thai indie",
+                          "children": [
+                            {
+                              "name": "thai rock",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "thai idol",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "deep turkish pop",
                   "children": []
                 }
               ]
             },
             {
               "name": "puerto rican pop",
+              "children": [
+                {
+                  "name": "arab pop",
+                  "children": [
+                    {
+                      "name": "lebanese pop",
+                      "children": []
+                    },
+                    {
+                      "name": "khaliji",
+                      "children": []
+                    },
+                    {
+                      "name": "egyptian pop",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "persian pop",
               "children": []
+            }
+          ]
+        },
+        {
+          "name": "reggaeton",
+          "children": [
+            {
+              "name": "reggaeton flow",
+              "children": [
+                {
+                  "name": "perreo",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "trap latino",
+              "children": [
+                {
+                  "name": "trap argentino",
+                  "children": []
+                },
+                {
+                  "name": "rap latina",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "latin hip hop",
+              "children": [
+                {
+                  "name": "mexican hip hop",
+                  "children": [
+                    {
+                      "name": "trap mexicano",
+                      "children": [
+                        {
+                          "name": "pinoy hip hop",
+                          "children": [
+                            {
+                              "name": "pinoy trap",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "colombian hip hop",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "chicano rap",
+                  "children": []
+                }
+              ]
             }
           ]
         },
         {
           "name": "tropical",
-          "children": []
+          "children": [
+            {
+              "name": "salsa",
+              "children": [
+                {
+                  "name": "modern salsa",
+                  "children": []
+                },
+                {
+                  "name": "latin jazz",
+                  "children": [
+                    {
+                      "name": "mambo",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "salsa puertorriquena",
+                  "children": []
+                },
+                {
+                  "name": "salsa international",
+                  "children": []
+                },
+                {
+                  "name": "boogaloo",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "dominican pop",
+              "children": [
+                {
+                  "name": "rap dominicano",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "merengue",
+              "children": []
+            }
+          ]
         },
         {
           "name": "colombian pop",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "rock",
-      "children": [
-        {
-          "name": "album rock",
           "children": [
             {
-              "name": "hard rock",
+              "name": "pop reggaeton",
               "children": [
                 {
-                  "name": "glam metal",
-                  "children": []
+                  "name": "pop peruano",
+                  "children": [
+                    {
+                      "name": "salsa peruana",
+                      "children": []
+                    }
+                  ]
                 }
               ]
             },
             {
-              "name": "heartland rock",
-              "children": []
-            }
-          ]
-        },
-        {
-          "name": "alternative rock",
-          "children": [
-            {
-              "name": "punk",
-              "children": []
-            },
-            {
-              "name": "garage rock",
-              "children": []
-            },
-            {
-              "name": "grunge",
-              "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "mellow gold",
-      "children": [
-        {
-          "name": "soft rock",
-          "children": [
-            {
-              "name": "yacht rock",
-              "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "trap",
-      "children": [
-        {
-          "name": "southern hip hop",
-          "children": [
-            {
-              "name": "dirty south rap",
-              "children": []
-            }
-          ]
-        },
-        {
-          "name": "chicago rap",
-          "children": []
-        },
-        {
-          "name": "miami hip hop",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "edm",
-      "children": [
-        {
-          "name": "electro house",
-          "children": []
-        },
-        {
-          "name": "pop edm",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "r&b",
-      "children": [
-        {
-          "name": "urban contemporary",
-          "children": [
-            {
-              "name": "hip pop",
+              "name": "ecuadorian pop",
               "children": [
                 {
-                  "name": "girl group",
+                  "name": "dong-yo",
                   "children": []
                 }
               ]
-            },
-            {
-              "name": "new jack swing",
-              "children": []
             }
           ]
-        },
-        {
-          "name": "neo soul",
-          "children": [
-            {
-              "name": "british soul",
-              "children": []
-            }
-          ]
-        },
-        {
-          "name": "deep pop r&b",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "alternative metal",
-      "children": [
-        {
-          "name": "nu metal",
-          "children": []
         }
       ]
     },
@@ -228,200 +3525,126 @@
       "children": [
         {
           "name": "country road",
-          "children": []
-        },
-        {
-          "name": "country pop",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "electropop",
-      "children": [
-        {
-          "name": "indietronica",
           "children": [
             {
-              "name": "vapor soul",
-              "children": []
-            },
-            {
-              "name": "chillwave",
-              "children": []
-            }
-          ]
-        },
-        {
-          "name": "metropopolis",
-          "children": []
-        },
-        {
-          "name": "indie poptimism",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "indie pop",
-      "children": [
-        {
-          "name": "indie rock",
-          "children": []
-        },
-        {
-          "name": "la indie",
-          "children": []
-        },
-        {
-          "name": "bedroom pop",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "reggaeton",
-      "children": [
-        {
-          "name": "latin hip hop",
-          "children": [
-            {
-              "name": "perreo",
-              "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "modern rock",
-      "children": [
-        {
-          "name": "modern alternative rock",
-          "children": []
-        },
-        {
-          "name": "britpop",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "dance rock",
-      "children": [
-        {
-          "name": "new wave",
-          "children": [
-            {
-              "name": "new romantic",
+              "name": "redneck",
               "children": [
                 {
-                  "name": "synthpop",
+                  "name": "finnish dance pop",
+                  "children": [
+                    {
+                      "name": "finnish pop",
+                      "children": [
+                        {
+                          "name": "iskelma",
+                          "children": [
+                            {
+                              "name": "greek pop",
+                              "children": [
+                                {
+                                  "name": "laiko",
+                                  "children": [
+                                    {
+                                      "name": "entehno",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "greek hip hop",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "classic finnish pop",
+                              "children": [
+                                {
+                                  "name": "classic iskelma",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "polish pop",
+                          "children": [
+                            {
+                              "name": "polish indie",
+                              "children": [
+                                {
+                                  "name": "transpop",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "classic polish pop",
+                              "children": [
+                                {
+                                  "name": "polish rock",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "suomi rock",
+                          "children": [
+                            {
+                              "name": "classic finnish rock",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "finnish hip hop",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "country rap",
                   "children": []
                 }
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "name": "regional mexican",
-      "children": [
-        {
-          "name": "regional mexican pop",
-          "children": []
         },
         {
-          "name": "banda",
-          "children": []
-        },
-        {
-          "name": "norteno",
-          "children": []
-        },
-        {
-          "name": "cumbia",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "folk rock",
-      "children": [
-        {
-          "name": "country rock",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "indie folk",
-      "children": [
-        {
-          "name": "chamber pop",
+          "name": "country",
           "children": [
             {
-              "name": "art pop",
+              "name": "classic country pop",
               "children": [
                 {
-                  "name": "escape room",
-                  "children": [
-                    {
-                      "name": "lgbtq+ hip hop",
-                      "children": []
-                    },
-                    {
-                      "name": "trap queen",
-                      "children": []
-                    }
-                  ]
+                  "name": "nashville sound",
+                  "children": []
                 }
               ]
             },
             {
-              "name": "freak folk",
+              "name": "country dawn",
               "children": []
             },
             {
-              "name": "indie anthem-folk",
-              "children": []
-            },
-            {
-              "name": "melancholia",
+              "name": "oklahoma country",
               "children": []
             }
           ]
         },
         {
-          "name": "new americana",
-          "children": []
-        },
-        {
-          "name": "stomp and holler",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "rock en espanol",
-      "children": [
-        {
-          "name": "latin rock",
+          "name": "country pop",
           "children": [
             {
-              "name": "mexican rock",
+              "name": "canadian contemporary country",
               "children": []
             }
           ]
-        },
-        {
-          "name": "argentine rock",
-          "children": []
-        },
-        {
-          "name": "latin alternative",
-          "children": []
         }
       ]
     },
@@ -430,60 +3653,69 @@
       "children": [
         {
           "name": "pop urbaine",
+          "children": [
+            {
+              "name": "francoton",
+              "children": [
+                {
+                  "name": "french pop",
+                  "children": [
+                    {
+                      "name": "chanson",
+                      "children": [
+                        {
+                          "name": "french rock",
+                          "children": [
+                            {
+                              "name": "french reggae",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "nouvelle chanson francaise",
+                          "children": [
+                            {
+                              "name": "icelandic pop",
+                              "children": [
+                                {
+                                  "name": "icelandic indie",
+                                  "children": []
+                                },
+                                {
+                                  "name": "icelandic rock",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "nasheed",
+                          "children": []
+                        },
+                        {
+                          "name": "ye ye",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "french movie tunes",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "rap marseille",
           "children": []
         },
         {
-          "name": "rap conscient",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "melodic rap",
-      "children": [
-        {
-          "name": "vapor trap",
-          "children": [
-            {
-              "name": "meme rap",
-              "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "classic rock",
-      "children": [
-        {
-          "name": "psychedelic rock",
-          "children": [
-            {
-              "name": "protopunk",
-              "children": []
-            }
-          ]
-        },
-        {
-          "name": "blues rock",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "mexican pop",
-      "children": [
-        {
-          "name": "latin arena pop",
-          "children": [
-            {
-              "name": "talent show",
-              "children": []
-            }
-          ]
-        },
-        {
-          "name": "latin viral pop",
+          "name": "rap catalan",
           "children": []
         }
       ]
@@ -493,66 +3725,526 @@
       "children": [
         {
           "name": "norwegian pop",
-          "children": []
+          "children": [
+            {
+              "name": "classic norwegian pop",
+              "children": [
+                {
+                  "name": "danseband",
+                  "children": [
+                    {
+                      "name": "norwegian country",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "norwegian rock",
+                  "children": []
+                },
+                {
+                  "name": "deep latin christian",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "norwegian pop rap",
+              "children": [
+                {
+                  "name": "norwegian hip hop",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "norwegian indie",
+              "children": [
+                {
+                  "name": "bergen indie",
+                  "children": []
+                },
+                {
+                  "name": "norwegian singer-songwriter",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "israeli pop",
+              "children": [
+                {
+                  "name": "israeli mediterranean",
+                  "children": []
+                },
+                {
+                  "name": "classic israeli pop",
+                  "children": []
+                }
+              ]
+            }
+          ]
         }
       ]
     },
     {
-      "name": "folk",
+      "name": "sertanejo universitario",
       "children": [
         {
-          "name": "lilith",
-          "children": []
+          "name": "funk carioca",
+          "children": [
+            {
+              "name": "funk ostentacao",
+              "children": [
+                {
+                  "name": "funk das antigas",
+                  "children": [
+                    {
+                      "name": "champeta",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "brazilian edm",
+              "children": []
+            }
+          ]
         },
         {
-          "name": "traditional folk",
-          "children": []
-        },
-        {
-          "name": "singer-songwriter",
-          "children": []
+          "name": "sertanejo",
+          "children": [
+            {
+              "name": "sertanejo tradicional",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "name": "big room",
+      "name": "soul",
       "children": [
         {
-          "name": "progressive house",
-          "children": []
+          "name": "funk",
+          "children": [
+            {
+              "name": "quiet storm",
+              "children": [
+                {
+                  "name": "disco",
+                  "children": [
+                    {
+                      "name": "post-disco",
+                      "children": [
+                        {
+                          "name": "synth funk",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "hi-nrg",
+                      "children": [
+                        {
+                          "name": "italian disco",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "philly soul",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "comic",
+              "children": [
+                {
+                  "name": "comedy",
+                  "children": [
+                    {
+                      "name": "new comedy",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "parody",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "modern funk",
+              "children": [
+                {
+                  "name": "retro soul",
+                  "children": []
+                }
+              ]
+            }
+          ]
         },
         {
-          "name": "progressive electro house",
-          "children": []
+          "name": "motown",
+          "children": [
+            {
+              "name": "desi pop",
+              "children": [
+                {
+                  "name": "modern bollywood",
+                  "children": [
+                    {
+                      "name": "filmi",
+                      "children": [
+                        {
+                          "name": "tamil pop",
+                          "children": [
+                            {
+                              "name": "deep indian pop",
+                              "children": []
+                            },
+                            {
+                              "name": "tamil hip hop",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "classic bollywood",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "sufi",
+                      "children": [
+                        {
+                          "name": "classic pakistani pop",
+                          "children": [
+                            {
+                              "name": "ghazal",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "indian folk",
+                          "children": []
+                        },
+                        {
+                          "name": "pakistani pop",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "desi hip hop",
+                  "children": [
+                    {
+                      "name": "bmore",
+                      "children": [
+                        {
+                          "name": "romanian pop",
+                          "children": [
+                            {
+                              "name": "romanian hip hop",
+                              "children": []
+                            },
+                            {
+                              "name": "freestyle",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "indonesian hip hop",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "albanian hip hop",
+                      "children": [
+                        {
+                          "name": "kosovan pop",
+                          "children": [
+                            {
+                              "name": "canadian latin",
+                              "children": []
+                            },
+                            {
+                              "name": "albanian pop",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "hindi hip hop",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "punjabi pop",
+                  "children": [
+                    {
+                      "name": "bhangra",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "northern soul",
+              "children": []
+            }
+          ]
         },
         {
-          "name": "deep big room",
-          "children": []
+          "name": "classic soul",
+          "children": [
+            {
+              "name": "southern soul",
+              "children": [
+                {
+                  "name": "bakersfield sound",
+                  "children": []
+                },
+                {
+                  "name": "memphis soul",
+                  "children": []
+                }
+              ]
+            }
+          ]
         }
       ]
     },
     {
-      "name": "alternative r&b",
+      "name": "german hip hop",
       "children": [
         {
-          "name": "indie r&b",
+          "name": "german cloud rap",
+          "children": [
+            {
+              "name": "trap espanol",
+              "children": [
+                {
+                  "name": "spanish hip hop",
+                  "children": [
+                    {
+                      "name": "rap conciencia",
+                      "children": [
+                        {
+                          "name": "venezuelan hip hop",
+                          "children": [
+                            {
+                              "name": "venezuelan rock",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "turkish hip hop",
+              "children": [
+                {
+                  "name": "turkish trap",
+                  "children": []
+                },
+                {
+                  "name": "irish hip hop",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "rap tunisien",
+              "children": [
+                {
+                  "name": "arabic hip hop",
+                  "children": [
+                    {
+                      "name": "rap maroc",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "uk hip hop",
+          "children": [
+            {
+              "name": "nc hip hop",
+              "children": []
+            },
+            {
+              "name": "grime",
+              "children": [
+                {
+                  "name": "birmingham grime",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "london rap",
+              "children": []
+            },
+            {
+              "name": "boston hip hop",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "german pop",
+          "children": [
+            {
+              "name": "partyschlager",
+              "children": [
+                {
+                  "name": "schlager",
+                  "children": [
+                    {
+                      "name": "classic schlager",
+                      "children": [
+                        {
+                          "name": "volksmusik",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "turbo folk",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "german rock",
+              "children": [
+                {
+                  "name": "liedermacher",
+                  "children": [
+                    {
+                      "name": "austropop",
+                      "children": [
+                        {
+                          "name": "volkspop",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "kabarett",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "german punk",
+                  "children": [
+                    {
+                      "name": "german oi",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "neue deutsche welle",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "hungarian pop",
+              "children": [
+                {
+                  "name": "hungarian rock",
+                  "children": [
+                    {
+                      "name": "magyar alternative",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "german indie",
+              "children": []
+            },
+            {
+              "name": "german singer-songwriter",
+              "children": []
+            },
+            {
+              "name": "german pop rock",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "polish hip hop",
+          "children": [
+            {
+              "name": "polish trap",
+              "children": [
+                {
+                  "name": "trap chileno",
+                  "children": [
+                    {
+                      "name": "reggaeton chileno",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "german alternative rap",
+          "children": [
+            {
+              "name": "hip hop tuga",
+              "children": []
+            },
+            {
+              "name": "antideutsche",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "hamburg hip hop",
           "children": []
         },
         {
-          "name": "indie soul",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "k-pop",
-      "children": [
-        {
-          "name": "k-pop girl group",
-          "children": []
-        },
-        {
-          "name": "k-pop boy group",
+          "name": "deep german hip hop",
           "children": []
         }
       ]
@@ -561,57 +4253,90 @@
       "name": "canadian hip hop",
       "children": [
         {
-          "name": "toronto rap",
+          "name": "hawaiian hip hop",
           "children": []
         }
       ]
     },
     {
-      "name": "funk",
+      "name": "ccm",
       "children": [
         {
-          "name": "quiet storm",
+          "name": "worship",
           "children": [
             {
-              "name": "disco",
+              "name": "world worship",
+              "children": [
+                {
+                  "name": "adoracao",
+                  "children": [
+                    {
+                      "name": "louvor",
+                      "children": []
+                    },
+                    {
+                      "name": "brazilian gospel",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "indonesian worship",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "christian relaxative",
               "children": []
             }
           ]
-        }
-      ]
-    },
-    {
-      "name": "pop rock",
-      "children": [
-        {
-          "name": "piano rock",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "new rave",
-      "children": [
-        {
-          "name": "alternative dance",
-          "children": []
         },
         {
-          "name": "dance-punk",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "sertanejo universitario",
-      "children": [
-        {
-          "name": "sertanejo",
-          "children": []
+          "name": "christian music",
+          "children": [
+            {
+              "name": "christian alternative rock",
+              "children": [
+                {
+                  "name": "christian rock",
+                  "children": [
+                    {
+                      "name": "christian metal",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "russian ccm",
+              "children": []
+            }
+          ]
         },
         {
-          "name": "sertanejo pop",
-          "children": []
+          "name": "christian pop",
+          "children": [
+            {
+              "name": "christian hip hop",
+              "children": [
+                {
+                  "name": "christlicher rap",
+                  "children": [
+                    {
+                      "name": "polish underground hip hop",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "christian trap",
+                  "children": []
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -620,28 +4345,236 @@
       "children": [
         {
           "name": "australian indie",
-          "children": []
-        },
-        {
-          "name": "indonesian pop",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "worship",
-      "children": [
-        {
-          "name": "christian music",
           "children": [
             {
-              "name": "christian alternative rock",
+              "name": "australian hip hop",
+              "children": [
+                {
+                  "name": "australian trap",
+                  "children": []
+                },
+                {
+                  "name": "australian underground hip hop",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "australian garage punk",
+              "children": []
+            },
+            {
+              "name": "chihuahua indie",
               "children": []
             }
           ]
         },
         {
-          "name": "world worship",
+          "name": "indonesian pop",
+          "children": [
+            {
+              "name": "dangdut",
+              "children": [
+                {
+                  "name": "dangdut koplo",
+                  "children": [
+                    {
+                      "name": "sholawat",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "classic indo pop",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "indonesian indie",
+              "children": [
+                {
+                  "name": "indonesian rock",
+                  "children": []
+                },
+                {
+                  "name": "indonesian folk",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "indonesian jazz",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "australian rock",
+          "children": [
+            {
+              "name": "australian alternative rock",
+              "children": [
+                {
+                  "name": "scottish rock",
+                  "children": [
+                    {
+                      "name": "liverpool indie",
+                      "children": []
+                    },
+                    {
+                      "name": "scottish indie",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "australian country",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "australian dance",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "italian hip hop",
+      "children": [
+        {
+          "name": "italian pop",
+          "children": [
+            {
+              "name": "italian arena pop",
+              "children": []
+            },
+            {
+              "name": "classic italian pop",
+              "children": [
+                {
+                  "name": "canzone d'autore",
+                  "children": [
+                    {
+                      "name": "folk rock italiano",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "canzone napoletana",
+                  "children": [
+                    {
+                      "name": "neomelodici",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "rap napoletano",
+          "children": [
+            {
+              "name": "reggae rock",
+              "children": [
+                {
+                  "name": "jawaiian",
+                  "children": [
+                    {
+                      "name": "polynesian pop",
+                      "children": [
+                        {
+                          "name": "kiwi rock",
+                          "children": [
+                            {
+                              "name": "guadalajara indie",
+                              "children": [
+                                {
+                                  "name": "cologne indie",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "hawaiian",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "east coast reggae",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "russian hip hop",
+              "children": [
+                {
+                  "name": "russian pop",
+                  "children": [
+                    {
+                      "name": "russian dance pop",
+                      "children": [
+                        {
+                          "name": "ukrainian pop",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "russian rock",
+                      "children": [
+                        {
+                          "name": "russian punk",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "russian gangster rap",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "italian alternative",
+          "children": [
+            {
+              "name": "rome indie",
+              "children": [
+                {
+                  "name": "minneapolis indie",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "milan indie",
+              "children": []
+            },
+            {
+              "name": "italian indie pop",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "trap italiana",
           "children": []
         }
       ]
@@ -653,52 +4586,169 @@
           "name": "focus",
           "children": [
             {
+              "name": "compositional ambient",
+              "children": [
+                {
+                  "name": "ambient",
+                  "children": [
+                    {
+                      "name": "drift",
+                      "children": [
+                        {
+                          "name": "warm drone",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "fourth world",
+                      "children": []
+                    },
+                    {
+                      "name": "drone",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "bow pop",
+                  "children": [
+                    {
+                      "name": "cello",
+                      "children": []
+                    },
+                    {
+                      "name": "pop violin",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "post-minimalism",
+                  "children": [
+                    {
+                      "name": "minimalism",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "icelandic classical",
+                  "children": [
+                    {
+                      "name": "icelandic experimental",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "name": "calming instrumental",
-              "children": []
+              "children": [
+                {
+                  "name": "classify",
+                  "children": [
+                    {
+                      "name": "new age",
+                      "children": [
+                        {
+                          "name": "healing",
+                          "children": [
+                            {
+                              "name": "shamanic",
+                              "children": [
+                                {
+                                  "name": "world fusion",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "meditation",
+                              "children": []
+                            },
+                            {
+                              "name": "kirtan",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "operatic pop",
+                          "children": [
+                            {
+                              "name": "classical tenor",
+                              "children": [
+                                {
+                                  "name": "italian tenor",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "new age piano",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "fingerstyle",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "relaxative",
+              "children": [
+                {
+                  "name": "chill lounge",
+                  "children": []
+                }
+              ]
             }
           ]
         },
         {
           "name": "sleep",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "house",
-      "children": [
-        {
-          "name": "disco house",
           "children": [
             {
-              "name": "deep house",
+              "name": "environmental",
+              "children": [
+                {
+                  "name": "water",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "white noise",
+              "children": []
+            },
+            {
+              "name": "asmr",
               "children": []
             }
           ]
         },
         {
-          "name": "uk dance",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "east coast hip hop",
-      "children": [
-        {
-          "name": "hardcore hip hop",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "desi pop",
-      "children": [
-        {
-          "name": "modern bollywood",
+          "name": "musica de fondo",
           "children": [
             {
-              "name": "filmi",
+              "name": "pianissimo",
+              "children": [
+                {
+                  "name": "brain waves",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "world meditation",
               "children": []
             }
           ]
@@ -709,30 +4759,59 @@
       "name": "pop punk",
       "children": [
         {
-          "name": "emo",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "german hip hop",
-      "children": [
-        {
-          "name": "uk hip hop",
+          "name": "pixie",
           "children": [
             {
-              "name": "nc hip hop",
+              "name": "pop emo",
+              "children": [
+                {
+                  "name": "neon pop punk",
+                  "children": [
+                    {
+                      "name": "alternative pop rock",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "emo",
+          "children": [
+            {
+              "name": "dreamo",
+              "children": [
+                {
+                  "name": "brisbane indie",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "japanese emo",
               "children": []
             }
           ]
         },
         {
-          "name": "german cloud rap",
-          "children": []
-        },
-        {
-          "name": "deep german hip hop",
-          "children": []
+          "name": "anthem emo",
+          "children": [
+            {
+              "name": "visual kei",
+              "children": [
+                {
+                  "name": "j-metal",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "uk pop punk",
+              "children": []
+            }
+          ]
         }
       ]
     },
@@ -740,55 +4819,235 @@
       "name": "mpb",
       "children": [
         {
+          "name": "baile pop",
+          "children": [
+            {
+              "name": "afropop",
+              "children": [
+                {
+                  "name": "nigerian pop",
+                  "children": [
+                    {
+                      "name": "afro dancehall",
+                      "children": [
+                        {
+                          "name": "azonto",
+                          "children": []
+                        },
+                        {
+                          "name": "azontobeats",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "flamenco urbano",
+                      "children": [
+                        {
+                          "name": "pop flamenco",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "panamanian pop",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "world",
+                  "children": [
+                    {
+                      "name": "afrobeat",
+                      "children": [
+                        {
+                          "name": "instrumental funk",
+                          "children": [
+                            {
+                              "name": "bboy",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "mande pop",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "children's music",
+              "children": [
+                {
+                  "name": "musica para ninos",
+                  "children": [
+                    {
+                      "name": "coverchill",
+                      "children": [
+                        {
+                          "name": "bossa nova cover",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "muziek voor kinderen",
+                  "children": []
+                },
+                {
+                  "name": "children's folk",
+                  "children": []
+                },
+                {
+                  "name": "cartoon",
+                  "children": []
+                },
+                {
+                  "name": "musica infantil",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "afrofuturismo brasileiro",
+              "children": [
+                {
+                  "name": "latin afrobeat",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "pop nacional",
+              "children": []
+            },
+            {
+              "name": "musica popular paraense",
+              "children": []
+            }
+          ]
+        },
+        {
           "name": "pagode",
-          "children": []
+          "children": [
+            {
+              "name": "axe",
+              "children": []
+            },
+            {
+              "name": "modern samba",
+              "children": []
+            }
+          ]
         },
         {
           "name": "brazilian rock",
-          "children": []
+          "children": [
+            {
+              "name": "rock gaucho",
+              "children": [
+                {
+                  "name": "musica nativista",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "brazilian punk",
+              "children": []
+            },
+            {
+              "name": "rock alternativo brasileiro",
+              "children": []
+            },
+            {
+              "name": "hard rock brasileiro",
+              "children": []
+            }
+          ]
         },
         {
           "name": "nova mpb",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "emo rap",
-      "children": [
-        {
-          "name": "dark trap",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "conscious hip hop",
-      "children": [
-        {
-          "name": "philly rap",
-          "children": []
+          "children": [
+            {
+              "name": "folk brasileiro",
+              "children": [
+                {
+                  "name": "nashville singer-songwriter",
+                  "children": []
+                },
+                {
+                  "name": "australian indie folk",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "mangue bit",
+              "children": [
+                {
+                  "name": "brazilian indie",
+                  "children": [
+                    {
+                      "name": "pernambuco alternative",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "nica",
+              "children": []
+            }
+          ]
         },
         {
-          "name": "alternative hip hop",
-          "children": []
+          "name": "samba",
+          "children": [
+            {
+              "name": "samba-rock",
+              "children": []
+            },
+            {
+              "name": "velha guarda",
+              "children": []
+            }
+          ]
         },
         {
-          "name": "detroit hip hop",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "metal",
-      "children": [
-        {
-          "name": "speed metal",
-          "children": []
+          "name": "forro",
+          "children": [
+            {
+              "name": "brega",
+              "children": []
+            },
+            {
+              "name": "tecnobrega",
+              "children": []
+            }
+          ]
         },
         {
-          "name": "groove metal",
-          "children": []
+          "name": "bossa nova",
+          "children": [
+            {
+              "name": "brazilian jazz",
+              "children": [
+                {
+                  "name": "violao",
+                  "children": []
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -797,109 +5056,15 @@
       "children": [
         {
           "name": "chillhop",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "rap metal",
-      "children": [
-        {
-          "name": "funk metal",
-          "children": []
-        },
-        {
-          "name": "rap rock",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "g funk",
-      "children": [
-        {
-          "name": "west coast rap",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "adult standards",
-      "children": [
-        {
-          "name": "lounge",
           "children": [
             {
-              "name": "vocal jazz",
+              "name": "jazz boom bap",
               "children": []
             }
           ]
-        }
-      ]
-    },
-    {
-      "name": "tropical house",
-      "children": [
-        {
-          "name": "new french touch",
-          "children": []
         },
         {
-          "name": "deep tropical house",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "dutch pop",
-      "children": [
-        {
-          "name": "dutch hip hop",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "brostep",
-      "children": [
-        {
-          "name": "electronic trap",
-          "children": [
-            {
-              "name": "bass trap",
-              "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "turkish pop",
-      "children": [
-        {
-          "name": "turkish rock",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "metalcore",
-      "children": [
-        {
-          "name": "melodic metalcore",
-          "children": []
-        },
-        {
-          "name": "screamo",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "italian pop",
-      "children": [
-        {
-          "name": "italian arena pop",
+          "name": "dinner jazz",
           "children": []
         }
       ]
@@ -908,16 +5073,132 @@
       "name": "j-pop",
       "children": [
         {
-          "name": "j-rock",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "baile pop",
-      "children": [
+          "name": "anime rock",
+          "children": [
+            {
+              "name": "anime",
+              "children": [
+                {
+                  "name": "anime score",
+                  "children": [
+                    {
+                      "name": "japanese soundtrack",
+                      "children": []
+                    },
+                    {
+                      "name": "japanese vgm",
+                      "children": []
+                    },
+                    {
+                      "name": "japanese instrumental",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "indonesian pop punk",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "j-pixie",
+              "children": [
+                {
+                  "name": "idol rock",
+                  "children": [
+                    {
+                      "name": "alt-idol",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "vocaloid",
+              "children": []
+            }
+          ]
+        },
         {
-          "name": "pop nacional",
+          "name": "j-rock",
+          "children": [
+            {
+              "name": "japanese punk rock",
+              "children": [
+                {
+                  "name": "japanese pop punk",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "japanese alternative rock",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "japanese r&b",
+          "children": [
+            {
+              "name": "j-rap",
+              "children": []
+            },
+            {
+              "name": "japanese soul",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "japanese city pop",
+          "children": [
+            {
+              "name": "japanese singer-songwriter",
+              "children": [
+                {
+                  "name": "j-acoustic",
+                  "children": [
+                    {
+                      "name": "indie quebecois",
+                      "children": [
+                        {
+                          "name": "hip hop quebecois",
+                          "children": []
+                        },
+                        {
+                          "name": "belo horizonte indie",
+                          "children": []
+                        },
+                        {
+                          "name": "pop quebecois",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "shibuya-kei",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "j-idol",
+          "children": [
+            {
+              "name": "j-division",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "okinawan pop",
           "children": []
         }
       ]
@@ -926,229 +5207,309 @@
       "name": "hoerspiel",
       "children": [
         {
-          "name": "kleine hoerspiel",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "soul",
-      "children": [
-        {
-          "name": "classic soul",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "acoustic pop",
-      "children": [
-        {
-          "name": "opm",
-          "children": []
+          "name": "reading",
+          "children": [
+            {
+              "name": "barnsagor",
+              "children": []
+            }
+          ]
         },
         {
-          "name": "indiecoustica",
-          "children": []
+          "name": "kleine hoerspiel",
+          "children": [
+            {
+              "name": "kindermusik",
+              "children": [
+                {
+                  "name": "australian children's music",
+                  "children": []
+                }
+              ]
+            }
+          ]
         }
       ]
-    },
-    {
-      "name": "funk carioca",
-      "children": [
-        {
-          "name": "brazilian edm",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "ranchera",
-      "children": [
-        {
-          "name": "bolero",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "hollywood",
-      "children": [
-        {
-          "name": "show tunes",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "brill building pop",
-      "children": [
-        {
-          "name": "rock-and-roll",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "german pop",
-      "children": [
-        {
-          "name": "german rock",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "atl hip hop",
-      "children": [
-        {
-          "name": "atl trap",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "ccm",
-      "children": [
-        {
-          "name": "anthem worship",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "francoton",
-      "children": [
-        {
-          "name": "french pop",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "trap latino",
-      "children": [
-        {
-          "name": "trap argentino",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "symphonic rock",
-      "children": [
-        {
-          "name": "progressive rock",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "folk-pop",
-      "children": [
-        {
-          "name": "mandopop",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "british invasion",
-      "children": [
-        {
-          "name": "merseybeat",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "scorecore",
-      "children": [
-        {
-          "name": "video game music",
-          "children": []
-        }
-      ]
-    },
-    {
-      "name": "electronica",
-      "children": []
-    },
-    {
-      "name": "country",
-      "children": []
-    },
-    {
-      "name": "brazilian hip hop",
-      "children": []
-    },
-    {
-      "name": "pop rap",
-      "children": []
-    },
-    {
-      "name": "trap espanol",
-      "children": []
-    },
-    {
-      "name": "italian hip hop",
-      "children": []
-    },
-    {
-      "name": "underground hip hop",
-      "children": []
-    },
-    {
-      "name": "dfw rap",
-      "children": []
-    },
-    {
-      "name": "neo mellow",
-      "children": []
-    },
-    {
-      "name": "roots rock",
-      "children": []
-    },
-    {
-      "name": "permanent wave",
-      "children": []
-    },
-    {
-      "name": "otacore",
-      "children": []
-    },
-    {
-      "name": "classical",
-      "children": []
-    },
-    {
-      "name": "art rock",
-      "children": []
-    },
-    {
-      "name": "grupera",
-      "children": []
     },
     {
       "name": "soundtrack",
-      "children": []
+      "children": [
+        {
+          "name": "scorecore",
+          "children": [
+            {
+              "name": "ambient worship",
+              "children": [
+                {
+                  "name": "middle earth",
+                  "children": [
+                    {
+                      "name": "ambient pop",
+                      "children": [
+                        {
+                          "name": "neoclassical darkwave",
+                          "children": [
+                            {
+                              "name": "medieval folk",
+                              "children": [
+                                {
+                                  "name": "viking folk",
+                                  "children": []
+                                },
+                                {
+                                  "name": "hurdy-gurdy",
+                                  "children": []
+                                },
+                                {
+                                  "name": "rune folk",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "name": "ethereal wave",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "video game music",
+              "children": [
+                {
+                  "name": "indie game soundtrack",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "epicore",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "classic soundtrack",
+          "children": [
+            {
+              "name": "french soundtrack",
+              "children": [
+                {
+                  "name": "vintage french electronic",
+                  "children": []
+                },
+                {
+                  "name": "musique pour enfants",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "theme",
+              "children": []
+            },
+            {
+              "name": "vintage italian soundtrack",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "german soundtrack",
+          "children": [
+            {
+              "name": "nordic soundtrack",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "canadian soundtrack",
+          "children": []
+        }
+      ]
     },
     {
-      "name": "post-grunge",
-      "children": []
+      "name": "reggae",
+      "children": [
+        {
+          "name": "reggae fusion",
+          "children": [
+            {
+              "name": "dancehall",
+              "children": [
+                {
+                  "name": "soca",
+                  "children": [
+                    {
+                      "name": "chutney",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "uk dancehall",
+                  "children": []
+                },
+                {
+                  "name": "modern reggae",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ska",
+          "children": [
+            {
+              "name": "ska punk",
+              "children": [
+                {
+                  "name": "modern ska punk",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "ska revival",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "roots reggae",
+          "children": [
+            {
+              "name": "lovers rock",
+              "children": [
+                {
+                  "name": "old school dancehall",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "dub",
+          "children": []
+        },
+        {
+          "name": "rock steady",
+          "children": []
+        }
+      ]
     },
     {
-      "name": "glam rock",
-      "children": []
+      "name": "brazilian hip hop",
+      "children": [
+        {
+          "name": "r&b brasileiro",
+          "children": [
+            {
+              "name": "portuguese pop",
+              "children": [
+                {
+                  "name": "kizomba",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "brasilia hip hop",
+          "children": []
+        }
+      ]
     },
     {
-      "name": "motown",
-      "children": []
-    },
-    {
-      "name": "baroque pop",
-      "children": []
+      "name": "classical",
+      "children": [
+        {
+          "name": "early music",
+          "children": [
+            {
+              "name": "baroque",
+              "children": [
+                {
+                  "name": "italian baroque",
+                  "children": [
+                    {
+                      "name": "italian opera",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "german baroque",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "classical era",
+          "children": [
+            {
+              "name": "early romantic era",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "post-romantic era",
+          "children": [
+            {
+              "name": "impressionism",
+              "children": [
+                {
+                  "name": "polish classical",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "late romantic era",
+          "children": [
+            {
+              "name": "russian romanticism",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "early modern classical",
+          "children": [
+            {
+              "name": "contemporary classical",
+              "children": [
+                {
+                  "name": "canadian classical",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "neoclassicism",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "classical performance",
+          "children": []
+        }
+      ]
     }
   ]
 }

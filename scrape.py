@@ -24,19 +24,25 @@ genre_map = {} # Start -> End, End -> done
 with open('testing.json') as f:
     genre_map = json.loads(f.read())
 print(genre_map)
-START_POS = 4249
+START_POS = 0
 for i, a in enumerate(root_links):
     scores[a.text] = i
 for i, a in enumerate(root_links[START_POS:]):
     actual_i = i+START_POS
-    next_link = BASE_URL + a['href'][:-3] + 'mainstream%20only'
-    secondLink = getAllLinks(next_link, row=2)
-    if scores[secondLink.text] < actual_i:
-        genre_map[a.text] = secondLink.text
-        print(actual_i, secondLink.text)
+    next_link = BASE_URL + a['href'][:-3] + 'deeper'
+    possible_next_links= getAllLinks(next_link)
+    depth = 10
+    if i > 100:
+        depth = 20
+    for link in possible_next_links[:depth]:
+
+        if scores[link.text] < actual_i:
+            genre_map[a.text] = link.text
+            print(actual_i, a.text, '->', link.text)
+            break
     else:
         genre_map[a.text] = "done"
-        print(actual_i, f'{a.text} is the best')
+        print(actual_i, a.text, '-> TOP LEVEL GENRE')
     if (i % 50 == 0):
         with open('testing.json', 'w') as f:
             f.write(json.dumps(genre_map,indent=2))
